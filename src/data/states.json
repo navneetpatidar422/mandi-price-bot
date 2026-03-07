@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "code": "2",
+    "shortCode": "AP",
+    "districts": [
+      { "name": "Guntur", "code": "39" },
+      { "name": "Krishna", "code": "40" },
+      { "name": "Kurnool", "code": "41" },
+      { "name": "Nellore", "code": "42" },
+      { "name": "Prakasam", "code": "43" },
+      { "name": "Visakhapatnam", "code": "44" },
+      { "name": "West Godavari", "code": "45" },
+      { "name": "East Godavari", "code": "46" },
+      { "name": "Chittoor", "code": "47" },
+      { "name": "Kadapa", "code": "48" }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "code": "8",
+    "shortCode": "GJ",
+    "districts": [
+      { "name": "Ahmedabad", "code": "78" },
+      { "name": "Anand", "code": "79" },
+      { "name": "Rajkot", "code": "80" },
+      { "name": "Surat", "code": "81" },
+      { "name": "Vadodara", "code": "82" },
+      { "name": "Junagadh", "code": "83" },
+      { "name": "Amreli", "code": "84" },
+      { "name": "Banaskantha", "code": "85" },
+      { "name": "Mehsana", "code": "86" },
+      { "name": "Sabarkantha", "code": "87" }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "code": "9",
+    "shortCode": "HR",
+    "districts": [
+      { "name": "Ambala", "code": "90" },
+      { "name": "Faridabad", "code": "91" },
+      { "name": "Gurgaon", "code": "92" },
+      { "name": "Hisar", "code": "93" },
+      { "name": "Jind", "code": "94" },
+      { "name": "Karnal", "code": "95" },
+      { "name": "Kurukshetra", "code": "96" },
+      { "name": "Rohtak", "code": "97" },
+      { "name": "Sirsa", "code": "98" },
+      { "name": "Sonepat", "code": "99" }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "code": "23",
+    "shortCode": "MP",
+    "districts": [
+      { "name": "Indore", "code": "312" },
+      { "name": "Bhopal", "code": "313" },
+      { "name": "Ujjain", "code": "314" },
+      { "name": "Dewas", "code": "315" },
+      { "name": "Jabalpur", "code": "316" },
+      { "name": "Gwalior", "code": "317" },
+      { "name": "Sagar", "code": "318" },
+      { "name": "Ratlam", "code": "319" },
+      { "name": "Shajapur", "code": "320" },
+      { "name": "Mandsaur", "code": "321" },
+      { "name": "Neemuch", "code": "322" },
+      { "name": "Harda", "code": "323" },
+      { "name": "Hoshangabad", "code": "324" },
+      { "name": "Vidisha", "code": "325" }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "code": "27",
+    "shortCode": "MH",
+    "districts": [
+      { "name": "Pune", "code": "390" },
+      { "name": "Nashik", "code": "391" },
+      { "name": "Nagpur", "code": "392" },
+      { "name": "Aurangabad", "code": "393" },
+      { "name": "Solapur", "code": "394" },
+      { "name": "Kolhapur", "code": "395" },
+      { "name": "Latur", "code": "396" },
+      { "name": "Ahmednagar", "code": "397" },
+      { "name": "Jalgaon", "code": "398" },
+      { "name": "Satara", "code": "399" },
+      { "name": "Sangli", "code": "400" }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "code": "32",
+    "shortCode": "PB",
+    "districts": [
+      { "name": "Amritsar", "code": "450" },
+      { "name": "Ludhiana", "code": "451" },
+      { "name": "Jalandhar", "code": "452" },
+      { "name": "Patiala", "code": "453" },
+      { "name": "Bathinda", "code": "454" },
+      { "name": "Moga", "code": "455" },
+      { "name": "Firozpur", "code": "456" },
+      { "name": "Sangrur", "code": "457" },
+      { "name": "Hoshiarpur", "code": "458" },
+      { "name": "Gurdaspur", "code": "459" }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "code": "33",
+    "shortCode": "RJ",
+    "districts": [
+      { "name": "Jaipur", "code": "460" },
+      { "name": "Jodhpur", "code": "461" },
+      { "name": "Kota", "code": "462" },
+      { "name": "Ajmer", "code": "463" },
+      { "name": "Udaipur", "code": "464" },
+      { "name": "Bikaner", "code": "465" },
+      { "name": "Alwar", "code": "466" },
+      { "name": "Bharatpur", "code": "467" },
+      { "name": "Nagaur", "code": "468" },
+      { "name": "Sri Ganganagar", "code": "469" },
+      { "name": "Sikar", "code": "470" },
+      { "name": "Bhilwara", "code": "471" }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "code": "35",
+    "shortCode": "UP",
+    "districts": [
+      { "name": "Lucknow", "code": "500" },
+      { "name": "Agra", "code": "501" },
+      { "name": "Varanasi", "code": "502" },
+      { "name": "Kanpur", "code": "503" },
+      { "name": "Allahabad", "code": "504" },
+      { "name": "Mathura", "code": "505" },
+      { "name": "Meerut", "code": "506" },
+      { "name": "Bareilly", "code": "507" },
+      { "name": "Aligarh", "code": "508" },
+      { "name": "Gorakhpur", "code": "509" },
+      { "name": "Muzaffarnagar", "code": "510" },
+      { "name": "Moradabad", "code": "511" }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "code": "16",
+    "shortCode": "KA",
+    "districts": [
+      { "name": "Bangalore", "code": "200" },
+      { "name": "Mysore", "code": "201" },
+      { "name": "Hubli", "code": "202" },
+      { "name": "Dharwad", "code": "203" },
+      { "name": "Belgaum", "code": "204" },
+      { "name": "Gulbarga", "code": "205" },
+      { "name": "Tumkur", "code": "206" },
+      { "name": "Shimoga", "code": "207" },
+      { "name": "Davangere", "code": "208" },
+      { "name": "Hassan", "code": "209" }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "code": "34",
+    "shortCode": "TN",
+    "districts": [
+      { "name": "Chennai", "code": "480" },
+      { "name": "Coimbatore", "code": "481" },
+      { "name": "Madurai", "code": "482" },
+      { "name": "Salem", "code": "483" },
+      { "name": "Trichy", "code": "484" },
+      { "name": "Tirunelveli", "code": "485" },
+      { "name": "Erode", "code": "486" },
+      { "name": "Dindigul", "code": "487" },
+      { "name": "Vellore", "code": "488" },
+      { "name": "Thanjavur", "code": "489" }
+    ]
+  }
+]

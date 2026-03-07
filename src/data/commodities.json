@@ -1,0 +1,226 @@
+[
+  {
+    "english": "Wheat",
+    "hinglish": "Gehun",
+    "hindi": "गेहूं",
+    "aliases": ["wheat", "gehun", "gehu", "गेहूं", "गेंहू"],
+    "emoji": "🌾",
+    "agmarknetName": "Wheat"
+  },
+  {
+    "english": "Rice",
+    "hinglish": "Chawal",
+    "hindi": "चावल",
+    "aliases": ["rice", "chawal", "dhaan", "paddy", "dhan", "चावल", "धान"],
+    "emoji": "🍚",
+    "agmarknetName": "Paddy(Common)"
+  },
+  {
+    "english": "Soybean",
+    "hinglish": "Soybean",
+    "hindi": "सोयाबीन",
+    "aliases": ["soybean", "soya bean", "soya", "soyabean", "सोयाबीन"],
+    "emoji": "🌱",
+    "agmarknetName": "Soyabean"
+  },
+  {
+    "english": "Onion",
+    "hinglish": "Pyaz",
+    "hindi": "प्याज",
+    "aliases": ["onion", "pyaz", "pyaaz", "piyaz", "kanda", "प्याज", "प्याजा"],
+    "emoji": "🧅",
+    "agmarknetName": "Onion"
+  },
+  {
+    "english": "Potato",
+    "hinglish": "Aloo",
+    "hindi": "आलू",
+    "aliases": ["potato", "aloo", "alu", "आलू"],
+    "emoji": "🥔",
+    "agmarknetName": "Potato"
+  },
+  {
+    "english": "Tomato",
+    "hinglish": "Tamatar",
+    "hindi": "टमाटर",
+    "aliases": ["tomato", "tamatar", "tamaatar", "टमाटर"],
+    "emoji": "🍅",
+    "agmarknetName": "Tomato"
+  },
+  {
+    "english": "Chilli",
+    "hinglish": "Mirch",
+    "hindi": "मिर्च",
+    "aliases": ["chilli", "chili", "mirch", "mirchi", "red chilli", "lal mirch", "मिर्च", "मिर्ची"],
+    "emoji": "🌶️",
+    "agmarknetName": "Dry Chillies"
+  },
+  {
+    "english": "Garlic",
+    "hinglish": "Lehsun",
+    "hindi": "लहसुन",
+    "aliases": ["garlic", "lehsun", "lahasun", "lashun", "लहसुन"],
+    "emoji": "🧄",
+    "agmarknetName": "Garlic"
+  },
+  {
+    "english": "Ginger",
+    "hinglish": "Adrak",
+    "hindi": "अदरक",
+    "aliases": ["ginger", "adrak", "अदरक"],
+    "emoji": "🫚",
+    "agmarknetName": "Ginger(Dry)"
+  },
+  {
+    "english": "Maize",
+    "hinglish": "Makka",
+    "hindi": "मक्का",
+    "aliases": ["maize", "corn", "makka", "makkai", "makki", "मक्का", "मक्की"],
+    "emoji": "🌽",
+    "agmarknetName": "Maize"
+  },
+  {
+    "english": "Cotton",
+    "hinglish": "Kapas",
+    "hindi": "कपास",
+    "aliases": ["cotton", "kapas", "kapas", "रूई", "कपास"],
+    "emoji": "🌸",
+    "agmarknetName": "Cotton"
+  },
+  {
+    "english": "Mustard",
+    "hinglish": "Sarson",
+    "hindi": "सरसों",
+    "aliases": ["mustard", "sarson", "sarso", "rai", "सरसों", "राई"],
+    "emoji": "🌻",
+    "agmarknetName": "Mustard"
+  },
+  {
+    "english": "Groundnut",
+    "hinglish": "Moongfali",
+    "hindi": "मूंगफली",
+    "aliases": ["groundnut", "peanut", "moongfali", "mungfali", "मूंगफली"],
+    "emoji": "🥜",
+    "agmarknetName": "Groundnut"
+  },
+  {
+    "english": "Chickpea",
+    "hinglish": "Chana",
+    "hindi": "चना",
+    "aliases": ["chickpea", "gram", "chana", "chane", "chanaa", "desi chana", "चना", "चने"],
+    "emoji": "🫘",
+    "agmarknetName": "Gram"
+  },
+  {
+    "english": "Lentil",
+    "hinglish": "Masoor Dal",
+    "hindi": "मसूर दाल",
+    "aliases": ["lentil", "masoor", "masur", "red lentil", "masoor dal", "मसूर"],
+    "emoji": "🫘",
+    "agmarknetName": "Masoor Dal"
+  },
+  {
+    "english": "Moong Dal",
+    "hinglish": "Moong Dal",
+    "hindi": "मूंग दाल",
+    "aliases": ["moong", "moong dal", "mung dal", "green gram", "मूंग", "मूंग दाल"],
+    "emoji": "🫘",
+    "agmarknetName": "Moong Dal"
+  },
+  {
+    "english": "Urad Dal",
+    "hinglish": "Urad Dal",
+    "hindi": "उड़द दाल",
+    "aliases": ["urad", "urad dal", "black gram", "उड़द", "उड़द दाल"],
+    "emoji": "🫘",
+    "agmarknetName": "Black Gram Dal (Urd Dal)"
+  },
+  {
+    "english": "Turmeric",
+    "hinglish": "Haldi",
+    "hindi": "हल्दी",
+    "aliases": ["turmeric", "haldi", "haladi", "हल्दी"],
+    "emoji": "🟡",
+    "agmarknetName": "Turmeric"
+  },
+  {
+    "english": "Cumin",
+    "hinglish": "Jeera",
+    "hindi": "जीरा",
+    "aliases": ["cumin", "jeera", "jira", "जीरा"],
+    "emoji": "🌿",
+    "agmarknetName": "Cummin Seed(Jeera)"
+  },
+  {
+    "english": "Coriander",
+    "hinglish": "Dhaniya",
+    "hindi": "धनिया",
+    "aliases": ["coriander", "dhaniya", "dhania", "cilantro", "धनिया"],
+    "emoji": "🌿",
+    "agmarknetName": "Coriander(Leaves)"
+  },
+  {
+    "english": "Sugarcane",
+    "hinglish": "Ganna",
+    "hindi": "गन्ना",
+    "aliases": ["sugarcane", "ganna", "gana", "गन्ना", "ईख"],
+    "emoji": "🎋",
+    "agmarknetName": "Sugarcane"
+  },
+  {
+    "english": "Banana",
+    "hinglish": "Kela",
+    "hindi": "केला",
+    "aliases": ["banana", "kela", "केला"],
+    "emoji": "🍌",
+    "agmarknetName": "Banana"
+  },
+  {
+    "english": "Mango",
+    "hinglish": "Aam",
+    "hindi": "आम",
+    "aliases": ["mango", "aam", "आम"],
+    "emoji": "🥭",
+    "agmarknetName": "Mango"
+  },
+  {
+    "english": "Cabbage",
+    "hinglish": "Patta Gobhi",
+    "hindi": "पत्ता गोभी",
+    "aliases": ["cabbage", "patta gobhi", "band gobhi", "पत्ता गोभी", "बंद गोभी"],
+    "emoji": "🥬",
+    "agmarknetName": "Cabbage"
+  },
+  {
+    "english": "Cauliflower",
+    "hinglish": "Phool Gobhi",
+    "hindi": "फूल गोभी",
+    "aliases": ["cauliflower", "phool gobhi", "फूल गोभी"],
+    "emoji": "🥦",
+    "agmarknetName": "Cauliflower"
+  },
+  {
+    "english": "Brinjal",
+    "hinglish": "Baingan",
+    "hindi": "बैंगन",
+    "aliases": ["brinjal", "eggplant", "baingan", "baigan", "बैंगन"],
+    "emoji": "🍆",
+    "agmarknetName": "Brinjal"
+  },
+  {
+    "english": "Ladies Finger",
+    "hinglish": "Bhindi",
+    "hindi": "भिंडी",
+    "aliases": ["okra", "ladies finger", "bhindi", "bindi", "भिंडी"],
+    "emoji": "🌿",
+    "agmarknetName": "Bhindi(Ladies Finger)"
+  },
+  {
+    "english": "Peas",
+    "hinglish": "Matar",
+    "hindi": "मटर",
+    "aliases": ["peas", "matar", "mattar", "green peas", "मटर"],
+    "emoji": "🫛",
+    "agmarknetName": "Green Peas"
+  }
+]

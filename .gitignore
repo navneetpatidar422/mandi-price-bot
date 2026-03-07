@@ -1,1 +1,29 @@
+copilot/fix-bot-activation-logic
 node_modules/
+
+# Agmarknet Auth Session (auto-generated, do not commit)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Environment variables (contains API keys)
+.env
+
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cache files
+cache/
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+ main
