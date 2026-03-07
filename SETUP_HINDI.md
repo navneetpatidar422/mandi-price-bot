@@ -6,6 +6,16 @@
 
 ---
 
+## 🚀 बोट शुरू करें
+
+बोट शुरू करने के लिए WhatsApp पर यह message भेजें:
+
+> **Hi Mandi Bot**
+
+बोट केवल इसी phrase पर respond करेगा (case-insensitive, extra spaces को ignore किया जाएगा)। activation phrase से पहले कोई भी दूसरा message silently ignore किया जाएगा।
+
+---
+
 ## 🛠️ Setup Guide (हिंदी में)
 
 > **घबराइए मत!** अगर आपने कभी कोडिंग नहीं की, तो भी यह गाइड आपकी मदद करेगी।
