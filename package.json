@@ -1,0 +1,14 @@
+{
+  "name": "mandi-price-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Mandi Price Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["whatsapp", "mandi", "price", "bot"],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
