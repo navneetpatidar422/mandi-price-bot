@@ -1,3 +1,6 @@
+copilot/fix-bot-activation-logic
+node_modules/
+
 # Agmarknet Auth Session (auto-generated, do not commit)
 .wwebjs_auth/
 .wwebjs_cache/
@@ -23,3 +26,4 @@ cache/
 # IDE files
 .vscode/
 .idea/
+ main

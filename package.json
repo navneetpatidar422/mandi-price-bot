@@ -1,6 +1,16 @@
 {
   "name": "mandi-price-bot",
   "version": "1.0.0",
+copilot/fix-bot-activation-logic
+  "description": "WhatsApp Mandi Price Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["whatsapp", "mandi", "price", "bot"],
+  "license": "MIT",
+  "devDependencies": {
+
   "description": "सही Mandi - WhatsApp bot for real-time mandi prices from Agmarknet. Developed by Navneet Patidar.",
   "main": "index.js",
   "scripts": {
@@ -30,5 +40,6 @@
   },
   "engines": {
     "node": ">=18.0.0"
+main
   }
 }
