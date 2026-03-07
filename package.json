@@ -1,0 +1,34 @@
+{
+  "name": "mandi-price-bot",
+  "version": "1.0.0",
+  "description": "सही Mandi - WhatsApp bot for real-time mandi prices from Agmarknet. Developed by Navneet Patidar.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "mandi-price",
+    "agmarknet",
+    "india",
+    "farmer",
+    "agriculture"
+  ],
+  "author": "Navneet Patidar",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
